@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ServidorDesarrollo" uuid="ffe14181-9fac-4546-b308-38e3659cef6b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://170.80.28.217:3000/universidaddeleon</jdbc-url>
+    </data-source>
+  </component>
+</project>
